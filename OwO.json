@@ -2,7 +2,7 @@
   "泡泡": {
     "type": "biaoqing",
     "baseURL": "{BIAOQING_PAOPAO_PATH}",
-    "suffix": ".png",
+    "suffix": "_2x.png",
     "retinaSuffix": "_2x.png",
     "input": "@({NAME})",
     "imgClass": "biaoqing newpaopao",
@@ -20,7 +20,7 @@
   "阿鲁": {
     "type": "biaoqing",
     "baseURL": "{BIAOQING_ARU_PATH}",
-    "suffix": ".png",
+    "suffix": "_2x.png",
     "retinaSuffix": "_2x.png",
     "input": "#({NAME})",
     "imgClass": "biaoqing aru alu",
